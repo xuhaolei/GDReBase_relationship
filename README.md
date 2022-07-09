@@ -6,9 +6,6 @@ pandas
 nltk
 gensim
 
-## data source
-`data/*.xlsx` : https://gitee.com/loxs/paper-classification
-
 ## 运行
 
 step 1. 数据预处理，命令行下：`python utils.py`
